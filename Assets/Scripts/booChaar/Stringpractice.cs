@@ -5,11 +5,11 @@ public class Stringpractice : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        int numBer = 3;
+
         string name = "은(는) 홀수입니다";
 
-        const int AGE = 3;
-
-        Debug.Log($"")
+        Debug.Log($"{numBer} + {name}");
 
         
     

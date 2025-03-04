@@ -7,7 +7,7 @@ public class stringmiter : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        string message = "문자열 보간법";
+        string message = "문자열 보관법";
 
         Debug.Log("message: " + message); //[1] 문자열 더하기 연산
         Debug.Log($"message: {message}"); //[2] 문자열 보간법

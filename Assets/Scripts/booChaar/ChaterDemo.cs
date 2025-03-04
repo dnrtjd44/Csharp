@@ -10,7 +10,7 @@ public class ChaterDemo : MonoBehaviour
     void Start()
     {
         
-        //[1] char 형 변수 선언 및 초기화 
+        //[1] char 형 변수 선언(선언은 메모리에 처음 넣는다) 및 초기화 
         char grade = 'A';
         char kor = '한';
 

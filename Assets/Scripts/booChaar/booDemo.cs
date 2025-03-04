@@ -12,7 +12,7 @@ public class booDemo : MonoBehaviour
         Debug.Log("bin: " + bin);
 
         bool isOut = false;
-        Debug.Log("isOut: " + false);
+        Debug.Log("isOut: " + isOut);
 
 
 

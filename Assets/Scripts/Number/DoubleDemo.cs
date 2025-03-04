@@ -5,9 +5,9 @@ public class DoubleDemo : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        double pi = 3.141592;   //64비트 실수형 데이터 형식 선언 및 초기화
-        float f = 3.14f;         //32비트 실수형 데이터 형식 선언 및 초기화
-        decimal d = 12.31m;      //128비트 실수형 데이터 형식 선언 및 초기화
+        //double pi = 3.141592;   //64비트 실수형 데이터 형식 선언 및 초기화
+        //float f = 3.14f;         //32비트 실수형 데이터 형식 선언 및 초기화
+        //decimal d = 12.31m;      //128비트 실수형 데이터 형식 선언 및 초기화
 
 
 

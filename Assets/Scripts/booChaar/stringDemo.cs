@@ -18,7 +18,7 @@ public class stringDemo : MonoBehaviour
             ¹Ý°©½À´Ï´Ù
         ";
 
-        Debug.Log("multiLine");
+        Debug.Log(multiLine);
     }
 
     // Update is called once per frame

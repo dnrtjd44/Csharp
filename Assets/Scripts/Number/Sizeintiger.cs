@@ -6,10 +6,10 @@ public class Sizeintiger : MonoBehaviour
     void Start()
     {
         //SignedIngeger
-        sbyte isbyte = 127; //8비트 부호가 있는 정수형 번수 선언 및 초기화
-        short iInt16 = 32767; //16비트 부호가 있는 정수형 번수 선언 및 초기화
-        int iInt32 = 2147483647; //32비트 부호가 있는 정수형 번수 선언 및 초기화
-        long iInt64 = 9223372036845775807; //64비트 부호가 있는 정수형 번수 선언 및 초기화
+        //sbyte isbyte = 127; //8비트 부호가 있는 정수형 번수 선언 및 초기화
+        //short iInt16 = 32767; //16비트 부호가 있는 정수형 번수 선언 및 초기화
+        //int iInt32 = 2147483647; //32비트 부호가 있는 정수형 번수 선언 및 초기화
+        //long iInt64 = 9223372036845775807; //64비트 부호가 있는 정수형 번수 선언 및 초기화
 
         //UnSignedIngeger
         byte ibyte = 255; //8비트 부호가 있는 정수형 번수 선언 및 초기화
@@ -20,6 +20,8 @@ public class Sizeintiger : MonoBehaviour
         Debug.Log("sbyte:" + ibyte);
         Debug.Log("ushort:" + iUInt16);
         Debug.Log("int:" + iUInt32);
+        Debug.Log("long:" + iUInt64);
+
     }
 
 

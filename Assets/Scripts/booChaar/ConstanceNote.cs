@@ -8,6 +8,10 @@ public class ConstanceNote : MonoBehaviour
         //변수
         string name = "홍길동";
         name = "이순신"; //수정 가능
+        name = "이장";
+        name = "이지영";
+        name = "이영지";
+        name = "이기신";
 
         //상수
         const int AGE = 20; //AGE를 20으로 고정
